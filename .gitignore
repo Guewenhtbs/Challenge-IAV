@@ -208,3 +208,13 @@ __marimo__/
 
 # dataset 
 ms-coco/
+
+# saved models
+*.pt
+*.pth
+
+# predictions
+*.json
+
+# logs
+runs/
